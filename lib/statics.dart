@@ -1,0 +1,56 @@
+
+class Statics {
+static final String notifications="notifications";
+static final String offers="offers";
+static final String item="item";
+static final String uploadFile="Upload File";
+static final String usersRating="usersRating";
+//static final String banners="banners";
+static final String banner="banner";
+static final String items="items";
+static final String menus="menus";
+static final String categories="categories";
+static final String recommended="recommended";
+static final String promotions="promotions";
+static final String ratingStart="ratingStart";
+static final String image="image";
+static final String sizes="sizes";
+static final String colors="colors";
+static final String images="images";
+static final String id="id";
+static final String title="title";
+static final String stock="stock";
+static final String place="place";
+static final String detailsProduct="detailsProduct";
+static final String ratingValue="ratingValue";
+static final String description="description";
+static final String specification="specification";
+static final String desc="desc";
+static final String specs="specs";
+static final String sale="sale";
+static final String rating="rating";
+static final String price="price";
+static final String oldPrice="oldPrice";
+static final String newPrice="newPrice";
+static final String normalPrice="normalPrice";
+static final String discountPrice="discountPrice";
+static final String name="name";
+static final String brands="brand";
+static final String subItems="subItems";
+//static final String category="category";
+static final String widthLine="widthLine";
+static final String sellerName="sellerName";
+static final String topRated="topRated";
+static final String logIn="login";
+static final String admins="admins";
+static final String users="users";
+static final String orders="orders";
+static final String ordersUser="ordersUser";
+static final String password="password";
+static final String subscription="subscription";
+static final String inWay="in way";
+static final String underOrder="underOrder";
+static final String delivered="delivered";
+static final String userOrder='userOrder';
+
+}

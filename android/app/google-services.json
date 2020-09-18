@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199339739663",
+    "firebase_url": "https://isouq-admin.firebaseio.com",
+    "project_id": "isouq-admin",
+    "storage_bucket": "isouq-admin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199339739663:android:706c37811adae8f199317a",
+        "android_client_info": {
+          "package_name": "com.inativecoder.isouq_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199339739663-ohfqjsusn3sqh2rscjc9h9l6pfbbetao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRzE1PLQhohks6tPvGzBSWP0cXxrcsgkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199339739663-ohfqjsusn3sqh2rscjc9h9l6pfbbetao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
